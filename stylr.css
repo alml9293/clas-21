@@ -1,0 +1,42 @@
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    top: 40%;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+h5 {
+    font-size: 2.5rem;
+    font-weight: 300;
+  }
+.blocquots{
+    
+    padding: 120px;
+    padding-top: 60px;
+    padding-bottom: 15px;
+    
+      
+}
+.mmm{
+    margin-top: 20px;
+}
+.ttt{
+    background-color: #f8f9fa;
+    
+    
+}
+.orrange{
+    width: 380px;
+}
+.mamun{
+    background-color: #f8f9fa;
+    margin-top: 10px;
+    padding-top: 60px;
+    padding-bottom: 15px;;
+}
+.yyy{
+  margin-top: -40px;
+}
